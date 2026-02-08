@@ -1,0 +1,8 @@
+## Interface: 20505
+## Title: Disable Chat Flash
+## Notes: Disables the flashing notification on chat tabs (when receiving whispers).
+## Author: Michael Morrell
+## IconTexture: Interface\Icons\Spell_Holy_Silence
+## Version: 1.0
+
+DisableChatFlash.lua
